@@ -5,6 +5,7 @@ Esta fabrica de PacMan permite a travez de un boton de "Add" que el usuario clic
 
 ## COMO SE EJECUTA:
 Abrir el siguiente link en el navegador.
+https://gabrielamoldes.github.io/Pacmen.factory/
 
 Aparecen dos botones, con "Add PacMan" se pueden agregar a la pantalla tantos pacMan como se desee y con "Start Game" se los pone en movimiento.
 
