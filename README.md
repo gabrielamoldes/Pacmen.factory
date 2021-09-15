@@ -13,7 +13,7 @@ Aparecen dos botones, con "Add PacMan" se pueden agregar a la pantalla tantos pa
 Se volveria más interesante si los PacMan tambien revotaran al chocar con otro PacMan y cambiaran el color.
 
 ## Screenshot
-![PacMen](https://user-images.githubusercontent.com/15187270/112933619-0d452080-90d5-11eb-8981-46fc5b89f66c.JPG)
+![PacMen](https://github.com/gabrielamoldes/Pacmen.factory/blob/main/Screenshot%202021-09-15%20200631.png)
 
 
 ### LICENCIA INFORMACION:
