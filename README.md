@@ -41,11 +41,12 @@ fuera o en relación con el software o el uso u otros negocios en el
 software.
 
 ### Lenguajes:
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="20px" /> HTML5 / <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="20px" /> CSS3
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20px" /> Javascript
+- <img src="https://github.com/gabrielamoldes/Modelo/blob/main/html.png" width="30px" /> HTML 
+- <img src="https://github.com/gabrielamoldes/Modelo/blob/main/css.png" width="30px" /> CSS
+- <img src="https://github.com/gabrielamoldes/Modelo/blob/main/javascript.png" width="30px" /> JavaScript
 
 ### Herramientas de Desarrollo:
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="20px" /> Visual Studio / VS Code
-- <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="20px" /> Git / GitHub
+- <img src="https://github.com/gabrielamoldes/Modelo/blob/main/visual-studio-code.png" width="30px" /> Visual Studio / VS Code
+- <img src="https://github.com/gabrielamoldes/Modelo/blob/main/github.png" width="30px" /> Git / GitHub
 
 
